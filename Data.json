@@ -2,7 +2,8 @@
   {
     "name": "John Doe",
     "image": "https://i.ibb.co/18hw7Rd/IMG-20230926-WA0000.jpg",
-    "phone": "+123456789"
+    "phone": "+123456789",
+    "details": "DEXTER"
   },
   {
     "name": "Jane Smith",
