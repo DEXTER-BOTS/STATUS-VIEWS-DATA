@@ -9,5 +9,11 @@
     "name": "Jane Smith",
     "image": "https://i.ibb.co/18hw7Rd/IMG-20230926-WA0000.jpg",
     "phone": "+987654321"
+  },
+  {
+    "name": "DEXTER",
+    "image": "https://i.ibb.co/18hw7Rd/IMG-20230926-WA0000.jpg",
+    "phone": "94789958225",
+    "details": "Hello "
   }
 ]
